@@ -1,0 +1,46 @@
+plugins {
+    id "java"
+    id "application"
+    id "org.openjfx.javafxplugin" version "0.0.10"
+    id "com.williambl.bluej_jar.bluej-jar" version "0.1"
+}
+
+group = project.maven_group
+version = project.version
+archivesBaseName = project.archives_base_name
+mainClassName = "${group}.Main"
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation("org.apache.commons:commons-lang3:${project.apache_commons_lang_version}")
+    implementation("org.apache.commons:commons-text:${project.apache_commons_text_version}")
+    // noinspection GradlePackageUpdate
+    implementation("com.opencsv:opencsv:${project.opencsv_version}")
+
+    implementation("org.jetbrains:annotations:${project.jetbrains_annotations_version}")
+    implementation("com.google.guava:guava:${project.google_guava_version}-jre")
+    implementation("commons-io:commons-io:${project.apache_commons_io_version}")
+
+    testImplementation "org.junit.jupiter:junit-jupiter-api:${project.junit_version}"
+    testRuntimeOnly "org.junit.jupiter:junit-jupiter-engine:${project.junit_version}"
+}
+
+javafx {
+    version = project.javafx_version
+    modules = ["javafx.controls", "javafx.fxml",'javafx.web']
+}
+
+blueJJar {
+    duplicatesStrategy = DuplicatesStrategy.EXCLUDE
+}
+
+test {
+    useJUnitPlatform()
+}
+
+compileJava {
+    options.release = 11
+}
