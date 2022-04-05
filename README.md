@@ -49,20 +49,23 @@ Use translation keys instead of hardcoding text. To do this in SceneBuilder:
 ![Screenshot 2022-04-03 162701](https://user-images.githubusercontent.com/64263647/161763645-064d6a92-0703-4bc5-9369-9255b3d0bc5d.png)
 
 ### Main GUI for Property Viewer
-
-
-### Main GUI for Property Viewer
 ![Screenshot 2022-04-03 162846](https://user-images.githubusercontent.com/64263647/161764766-0e26a0d5-c7b0-42bf-bf82-c3b498253492.png)
 
 
-### Map/Select Location for Property
+### Map/Select Properties by selected borough
 ![Screenshot 2022-04-03 163238](https://user-images.githubusercontent.com/64263647/161764780-ac80f4c6-ff4a-4fbe-b9fa-a48b7d4d978c.png)
+
+### Information about selected Borough
+![Screenshot 2022-04-03 162930](https://user-images.githubusercontent.com/64263647/161765369-fc91df85-dfdf-430e-a95c-c5407920f8c0.png)
 
 ### Filter Options for Properties
 ![Screenshot 2022-04-03 163132](https://user-images.githubusercontent.com/64263647/161764746-badf56c9-e210-441b-bda8-cc56f693cd38.png)
 
-### View Property through embedded Google Maps API
+### View Property on the map using the Google Maps API
 ![unknown](https://user-images.githubusercontent.com/64263647/161764719-1be89443-040b-45b6-b70f-7ab35aae6866.png)
+
+
+
 
 
 
