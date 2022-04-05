@@ -39,3 +39,13 @@ Use translation keys instead of hardcoding text. To do this in SceneBuilder:
 2. Supply a translation key. For example, the key for the open file button in the start menu is: `button.start.openFile`.
 3. To supply the translation for a language, create or locate a file in the folder `resources/bundles` called `lang_bundle_LANGUAGE_CODE`, for example for Great Britain, `lang_bundle_en_GB`.
 4. In that file, add a line assigning the translation to the translation key with an `=` sign, for example, `button.start.openFile = Open`.
+
+
+## Screen shots
+
+
+### Welcome screen
+
+![Screenshot 2022-04-03 162701](https://user-images.githubusercontent.com/64263647/161763645-064d6a92-0703-4bc5-9369-9255b3d0bc5d.png)
+
+
