@@ -41,22 +41,4 @@ Use translation keys instead of hardcoding text. To do this in SceneBuilder:
 4. In that file, add a line assigning the translation to the translation key with an `=` sign, for example, `button.start.openFile = Open`.
 
 
-## Screen shots
-
-
-### Welcome screen
-
-
-
-
-### Information about selected Borough
-![Screenshot 2022-04-03 162930](https://user-images.githubusercontent.com/64263647/161765369-fc91df85-dfdf-430e-a95c-c5407920f8c0.png)
-
-### Filter Options for Properties
-![Screenshot 2022-04-03 163132](https://user-images.githubusercontent.com/64263647/161764746-badf56c9-e210-441b-bda8-cc56f693cd38.png)
-
-
-
-
-
 
