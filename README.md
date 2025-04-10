@@ -57,9 +57,6 @@ Use translation keys instead of hardcoding text. To do this in SceneBuilder:
 ### Filter Options for Properties
 ![Screenshot 2022-04-03 163132](https://user-images.githubusercontent.com/64263647/161764746-badf56c9-e210-441b-bda8-cc56f693cd38.png)
 
-### View Property on the map using the Google Maps API
-![unknown](https://user-images.githubusercontent.com/64263647/161764719-1be89443-040b-45b6-b70f-7ab35aae6866.png)
-
 
 
 
