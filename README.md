@@ -48,8 +48,6 @@ Use translation keys instead of hardcoding text. To do this in SceneBuilder:
 
 
 
-### Map/Select Properties by selected borough
-![Screenshot 2022-04-03 163238](https://user-images.githubusercontent.com/64263647/161764780-ac80f4c6-ff4a-4fbe-b9fa-a48b7d4d978c.png)
 
 ### Information about selected Borough
 ![Screenshot 2022-04-03 162930](https://user-images.githubusercontent.com/64263647/161765369-fc91df85-dfdf-430e-a95c-c5407920f8c0.png)
