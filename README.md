@@ -1,4 +1,4 @@
-# Property Marketplace Coursework
+# Property Marketplace 
 
 ## Project title
 AirBnB London Data Set Loader 
@@ -46,10 +46,6 @@ Use translation keys instead of hardcoding text. To do this in SceneBuilder:
 
 ### Welcome screen
 
-![Screenshot 2022-04-03 162701](https://user-images.githubusercontent.com/64263647/161763645-064d6a92-0703-4bc5-9369-9255b3d0bc5d.png)
-
-### Main GUI for Property Viewer
-![Screenshot 2022-04-03 162846](https://user-images.githubusercontent.com/64263647/161764766-0e26a0d5-c7b0-42bf-bf82-c3b498253492.png)
 
 
 ### Map/Select Properties by selected borough
